@@ -1,0 +1,5 @@
+# VERSION — P7 Record (record-layer)
+# Function: the current release version of this layer. Advances only on freeze.
+# 1.0.0 — P7 frozen. Tests pass (4/4).
+
+1.0.0
