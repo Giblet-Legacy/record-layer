@@ -1,5 +1,7 @@
 # VERSION — P7 Record (record-layer)
 # Function: the current release version of this layer. Advances only on freeze.
 # 1.0.0 — P7 frozen. Tests pass (4/4).
+# 2.0.0 — record_v2.py strict layer frozen (SPEC_V2.md). v1 4/4, v2 16/16.
+#         record.py unchanged.
 
-1.0.0
+2.0.0

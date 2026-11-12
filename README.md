@@ -12,4 +12,5 @@ Depends:  P1 Envelope v2, P2 Sign
 Consumed: The Cockpit, SC-OS
 Licence:  MSL-1.0
 Author:   James Gilbert (Giblets Forge)
-Status:   0.0.0-dev (in build, pre-freeze)
+Status:   2.0.0 (frozen). New code imports record_v2 (SPEC_V2.md);
+          record.py is the frozen v1.0.0 primitive (SPEC.md).
